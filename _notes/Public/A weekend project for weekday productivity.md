@@ -10,7 +10,7 @@ I have a [IKEA Tarendo](https://www.ikea.com/ca/en/p/taerendoe-table-black-s9900
 
 Below was my setup previously (I wish I had a picture that shows the floor too)
 
-<img src="/assets/img/desk_setup_before.jpg" width="400">
+<img src="/assets/img/desk_setup_before.jpg" width="400" height="400">
 
 This desk has 3cmx3cm legs. The idea is to raise the height of the desk to a standing desk and use a bar top chair to raise the sitting height as well. This way the default mode of desk is standing desk which I want to do most of the time during work and whenever i feel like sitting I should use bar top chair
 
