@@ -5,7 +5,7 @@ date : 25-02-2022
 ---
 
 
-| What                                                                                     | Why                                                                                                                        |
+| `What`                                                                                     | `Why`                                                                                                                        |
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | Prepare emergency fund of 6 months - 1 year                                              | In tough situations you can still work on your own terms and find another opportunity                                      |
 | Get Health Insurance for your family                                                     | Medical cost drive up a lot, so instead of dipping into savings depend on insurance companies                              |

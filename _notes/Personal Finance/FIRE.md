@@ -4,7 +4,7 @@ notetype : feed
 date : 25-02-2022
 ---
 
-I learnt this concept from https://www.reddit.com/r/FIREIndia/
+I learnt this concept from [FIREIndia Reddit](https://www.reddit.com/r/FIREIndia/)
 
 Below is how would I summarize what I learnt about this concept
 
