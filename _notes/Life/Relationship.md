@@ -4,7 +4,7 @@ notetype : feed
 date : 27-05-2022
 ---
 
-I have been reading and understanding about relationships and life partner off late and it first started with a WaitButWhy aritcle [How to Pick Your Life Partner](https://waitbutwhy.com/2014/02/pick-life-partner.html) few years back and kind of figured out what this is all about with Daniel Sloss Netflix Live show called [Jigsaw](https://www.netflix.com/in/title/80223685) with many comments and threads in reddit (thanks to anonymous redditor who commented about this show and I happen to see this show at 4AM on that day). 
+I have been reading and understanding about relationships and life partner off late and it first started with a WaitButWhy aritcle [How to Pick Your Life Partner](https://waitbutwhy.com/2014/02/pick-life-partner.html) few years back and kind of figured out what this is all about with Daniel Sloss Netflix Live show called [Jigsaw](https://www.netflix.com/in/title/80223685) (thanks to anonymous redditor who commented about this show and I happen to see this show at 4AM on that day). 
 
 
 Recently I have met most of my friends after a long time in a friend's marriage and half of the them are married. One of my best friend started asking married people how did you take the decision and what did you discuss before the marriage. While there were many responses and thoughts, I thought I had good knowledge on this and writing is the best form of clearing and understanding your thoughts. So i decided to pen down those thoughts.
