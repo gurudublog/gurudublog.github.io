@@ -16,3 +16,4 @@ Starting with below topics that I would cover in this garden. You can trace back
 - Life Hacks
 - Softwares that I use
 - [[Creativity]]
+- [[Life]]
