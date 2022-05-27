@@ -38,8 +38,8 @@ Some of the qualities for a good and happy long term relationship I think are be
 	- Have low expectations and find ways to enjoy your time together with the things at hand
 - Be honest and genuine 
 
+There is more to above list and I would keep adding...
 
-
-Some other related things I know/read of
+And some other related things I know/read of
 
 - True success is when the people who you want to love you do love you and that comes overwhelmingly from how you treat people. 
