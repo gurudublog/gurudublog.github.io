@@ -5,5 +5,5 @@ date : 25-02-2022
 ---
 
 
-[[Learning French]]
-[[Learning Guitar]]
+- [[Learning French]]
+- [[Learning Guitar]]

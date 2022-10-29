@@ -4,5 +4,5 @@ notetype : feed
 date : 29-10-2022
 ---
 
-[[Java]]
-[[Spring]]
+- [[Java]]
+- [[Spring]]

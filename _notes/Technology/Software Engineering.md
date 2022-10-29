@@ -4,6 +4,6 @@ notetype : feed
 date : 29-10-2022
 ---
 
-[[Interviews]]
-[[Study Notes]]
-[[Sysytem Design]]
+- [[Interviews]]
+- [[Study Notes]]
+- [[Sysytem Design]]

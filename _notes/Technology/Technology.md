@@ -5,5 +5,5 @@ date : 18-06-2022
 ---
 
 
-[[Machine Learning]]
-[[Software Engineering]]
+- [[Machine Learning]]
+- [[Software Engineering]]
